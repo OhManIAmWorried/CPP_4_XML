@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+
+<root xmlns=""
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="Schema.xsd Schema.xsd"
+      xmlns:pr1="Schema.xsd">
+
+    <pr1:datasheet>
+        <pr1:data date="19.03.2016">
+            <pr1:x>1.1</pr1:x>
+            <pr1:y>1.01</pr1:y>
+        </pr1:data>
+        <pr1:data date="20.03.16">
+            <pr1:x>2.2</pr1:x>
+            <pr1:y>2.3</pr1:y>
+        </pr1:data>
+        <pr1:data date="21.03.2016">
+            <pr1:x>3.3</pr1:x>
+            <pr1:y>3.05</pr1:y>
+        </pr1:data>
+        <pr1:data date="22.03.2016">
+            <pr1:x>4.4</pr1:x>
+            <pr1:y>4.28</pr1:y>
+        </pr1:data>
+        <pr1:data date="23.03.2016">
+            <pr1:x>5.5</pr1:x>
+            <pr1:y>5.75</pr1:y>
+        </pr1:data>
+        <pr1:data date="24.03.2016">
+            <pr1:x>6.6</pr1:x>
+            <pr1:y>6.48</pr1:y>
+        </pr1:data>
+        <pr1:data date="25.03.2016">
+            <pr1:x>7.7</pr1:x>
+            <pr1:y>7.84</pr1:y>
+        </pr1:data>
+    </pr1:datasheet>
+</root>
